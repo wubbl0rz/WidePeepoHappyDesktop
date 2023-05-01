@@ -15,6 +15,8 @@ setBackground()
     FILE=$(echo "$FILES" | grep "M4x_$1_" | grep -v NoMoon | shuf -n 1)
     echo "SET NEW BACKGROUND: $FILE"
     feh --bg-fill $FILE
+  else
+    ~/.fehbg
   fi
 }
 
