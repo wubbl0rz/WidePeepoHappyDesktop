@@ -6,6 +6,7 @@ images by ragman9.
 <img src="./images/XPPeepo_M4x_Day_BurgersAndDrink.png" width="700px">
 <img src="./images/XPPeepo_M4x_Day_Cookie.png" width="700px">
 <img src="./images/XPPeepo_M4x_Day_PC.png" width="700px">
+<img src="./images/XPPeepo_M4x_Day_Soldering.png" width="700px">
 <img src="./images/XPPeepo_M4x_Day_Energy.png" width="700px">
 <img src="./images/XPPeepo_M4x_Day_NoodlesAndSalmon.png" width="700px">
 <img src="./images/XPPeepo_M4x_Day_Iron.png" width="700px">
@@ -26,6 +27,7 @@ images by ragman9.
 <img src="./images/XPPeepo_M4x_Sunrise_Blanket.png" width="700px">
 <img src="./images/XPPeepo_M4x_Sunrise_BlanketToothbrush.png" width="700px">
 <img src="./images/XPPeepo_M4x_Sunset_Blanket.png" width="700px">
+<img src="./images/XPPeepo_M4x_Sunset_RecycledStory.png" width="700px">
 <img src="./images/XPPeepo_M4x_Sunset_BlanketProjectorStream.png" width="700px">
 <img src="./images/XPPeepo_M4x_Sunset_Nightcap.png" width="700px">
 <img src="./images/XPPeepo_M4x_Sunset_NightcapStream.png" width="700px">
