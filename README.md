@@ -13,6 +13,7 @@ images by ragman9.
 <img src="./images/XPPeepo_M4x_Day_Sports.png" width="700px">
 <img src="./images/XPPeepo_M4x_Day.png" width="700px">
 <img src="./images/XPPeepo_M4x_Day_Reading.png" width="700px">
+<img src="./images/XPPeepo_M4x_Day_PooPoo.png" width="700px">
 <img src="./images/XPPeepo_M4x_Morning_CoffeeCroissants.png" width="700px">
 <img src="./images/XPPeepo_M4x_Morning_Coffee.png" width="700px">
 <img src="./images/XPPeepo_M4x_Morning_ToothbrushShave.png" width="700px">
